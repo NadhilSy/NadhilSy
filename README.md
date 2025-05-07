@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NadhilSy
-- 👀 I’m interested in Android Programming
-- 🌱 I’m currently learning Android Programming with JAVA
+- 👀 I’m interested in Spring Boot development
 
 
 <!---
